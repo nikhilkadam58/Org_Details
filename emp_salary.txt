@@ -1,0 +1,7 @@
+Employee Salary :
+
+Nikhil : 50000
+
+Sanket : 25000
+
+Sayali : 65000
